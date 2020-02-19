@@ -1,0 +1,116 @@
+Designator Pattern                Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation
+
+2          FIDUCIAL           -65458mil     -49535mil        908mil       -509mil     -65458mil     -49535mil  T         0.000
+Q3         SOT-23             2223.5mil     1107.5mil       2180mil       1145mil       2180mil       1145mil  T       270.000
+R38        0603                 2320mil     1112.5mil       2320mil       1085mil       2320mil       1085mil  T        90.000
+D1         LED LTST-C19         2378mil       1076mil       2348mil       1076mil       2348mil       1076mil  B       180.000
+R5         0603                 2410mil     1112.5mil       2410mil       1140mil       2410mil       1140mil  T       270.000
+F3         FIDUCIAL             2483mil       1116mil       2483mil       1116mil       2483mil       1116mil  T         0.000
+F1         0805                 2463mil        911mil       2463mil        866mil       2463mil        866mil  T        90.000
+V3         1206                 2460mil      902.5mil       2460mil        835mil       2460mil        835mil  B        90.000
+R1         0805                 1573mil        616mil       1573mil        571mil       1573mil        571mil  T        90.000
+C28        0603                 1768mil      648.5mil       1768mil        621mil       1768mil        621mil  T        90.000
+C2         0603                 1653mil      648.5mil       1653mil        621mil       1653mil        621mil  T        90.000
+U11        SOT-23-5             1598mil    618.402mil       1648mil        656mil       1548mil        581mil  B       270.000
+           FIDUCIAL          -22.827mil   1084.819mil    -22.827mil   1084.819mil    -22.827mil   1084.819mil  T         0.000
+R12        0603                   37mil      572.5mil         37mil        545mil         37mil        545mil  T        90.000
+C1         0603                 89.5mil        695mil         62mil        695mil         62mil        695mil  T         0.000
+J3         2X5 .050 IN       124.756mil     513.15mil        202mil        615mil    201.331mil     613.15mil  B       270.000
+R13        0603                  222mil      597.5mil        222mil        570mil        222mil        570mil  T        90.000
+R11        0603                  532mil      592.5mil        532mil        565mil        532mil        565mil  T        90.000
+C25        0603                  627mil      592.5mil        627mil        565mil        627mil        565mil  T        90.000
+U5         QFN-36            820.346mil    387.622mil        742mil        494mil    741.606mil    494.709mil  B       270.000
+C13        0402                  762mil        589mil        762mil        564mil        762mil        564mil  B        90.000
+C18        0603                  763mil      712.5mil        763mil        740mil        763mil        740mil  B       270.000
+V2         1206               1007.5mil       1135mil        940mil       1135mil        940mil       1135mil  T         0.000
+J5         2P 2MM SHUNT     1302.158mil   1114.528mil       1342mil       1115mil   1341.528mil   1114.528mil  B         0.000
+C30        0603               1565.5mil       1146mil       1538mil       1146mil       1538mil       1146mil  T         0.000
+V1         1206               1900.5mil       1136mil       1833mil       1136mil       1833mil       1136mil  T       360.000
+C29        0603               1720.5mil       1146mil       1693mil       1146mil       1693mil       1146mil  T       360.000
+R39        0603               1667.5mil        975mil       1695mil        975mil       1695mil        975mil  B         0.000
+R34        0603               1667.5mil        905mil       1695mil        905mil       1695mil        905mil  B         0.000
+U14        SOT-143            1837.5mil        785mil       1805mil        835mil       1805mil        835mil  B       180.000
+J1         2X20 SMD TOP     1142.803mil    906.402mil       2093mil        784mil   2093.315mil        784mil  T         0.000
+R20        0603               1995.5mil        681mil       1968mil        681mil       1968mil        681mil  T         0.000
+C32        0603               1847.5mil        665mil       1875mil        665mil       1875mil        665mil  B         0.000
+Q1         SOT-23             1886.5mil      613.5mil       1843mil        651mil       1843mil        651mil  T       270.000
+U10        SOT-23-5             1793mil    558.402mil       1843mil        596mil       1743mil        521mil  B       270.000
+R4         0603               1905.5mil        521mil       1878mil        521mil       1878mil        521mil  T       360.000
+Q4         SOT-23             1799.5mil      398.5mil       1843mil        436mil       1843mil        436mil  B       270.000
+Q2         SOT-23             2044.5mil       73.5mil       2088mil         36mil       2088mil         36mil  T        90.000
+R10        0603               2060.5mil        -34mil       2033mil        -34mil       2033mil        -34mil  T       360.000
+D2         LED LTST-C19         2073mil        -39mil       2043mil        -39mil       2043mil        -39mil  B       180.000
+F4         FIDUCIAL             2448mil        -39mil       2448mil        -39mil       2448mil        -39mil  T         0.000
+SW1        SW SLIDE JS1     2376.012mil     284.74mil       2423mil        186mil   2422.764mil    186.315mil  T        90.000
+C4         0603                 2213mil      398.5mil       2213mil        371mil       2213mil        371mil  T        90.000
+J2         2P PH-K-S RA     2243.071mil    640.354mil       2245mil        600mil   2243.071mil    600.984mil  T       270.000
+U1         DFN2X3MM 8P      2111.528mil    622.086mil       2082mil        565mil       2082mil        565mil  T         0.000
+SW3        SW-PTS645        2146.425mil     651.37mil       1988mil        562mil   1988.945mil    562.787mil  B       180.000
+C3         0603                 2022mil      537.5mil       2022mil        510mil       2022mil        510mil  T        90.000
+C9         0603                 2072mil      397.5mil       2072mil        425mil       2072mil        425mil  T       270.000
+C8         0603                 2142mil      397.5mil       2142mil        425mil       2142mil        425mil  T       270.000
+C27        0603               2153.5mil        300mil       2126mil        300mil       2126mil        300mil  T       360.000
+U9         TSOT-23          2139.653mil    198.677mil       2088mil        236mil   2087.961mil    236.157mil  T        90.000
+SW2        SW-PTS645        2147.425mil     249.37mil       1989mil        160mil   1989.945mil    160.787mil  B       180.000
+C10        1206                 1638mil      258.5mil       1638mil        191mil       1638mil        191mil  T        90.000
+U4         VQFN-16P         1483.244mil    240.386mil       1561mil        202mil       1561mil        202mil  T       180.000
+R29        0402                 1383mil        -84mil       1408mil        -84mil       1408mil        -84mil  T       180.000
+R28        0402                 1383mil        -84mil       1408mil        -84mil       1408mil        -84mil  B         0.000
+R31        0402                 1228mil        -84mil       1203mil        -84mil       1203mil        -84mil  B       180.000
+R30        0402                 1228mil        -84mil       1203mil        -84mil       1203mil        -84mil  T       360.000
+J4         4P100SHUNT           1402mil        -13mil       1252mil        -13mil       1252mil        -13mil  B       180.000
+C21        0603             1095.284mil     52.279mil   1095.284mil     24.779mil   1095.284mil     24.779mil  T        90.000
+C7         0402                 1096mil         66mil       1071mil         66mil       1071mil         66mil  B       180.000
+C6         0402                 1152mil        199mil       1152mil        174mil       1152mil        174mil  B        90.000
+U7         SOIC-8 N         1297.709mil    464.409mil       1192mil        540mil   1191.803mil    539.409mil  T         0.000
+C5         0603               1390.5mil        561mil       1363mil        561mil       1363mil        561mil  B       180.000
+R36        0402                 1295mil        310mil       1295mil        335mil       1295mil        335mil  B       270.000
+R25        0603               1272.5mil        300mil       1245mil        300mil       1245mil        300mil  T         0.000
+R9         0603                 1218mil      198.5mil       1218mil        226mil       1218mil        226mil  T       270.000
+R37        0402                 1295mil        195mil       1295mil        220mil       1295mil        220mil  B       270.000
+R8         0603                 1303mil      198.5mil       1303mil        171mil       1303mil        171mil  T        90.000
+C24        0603               1265.5mil         86mil       1293mil         86mil       1293mil         86mil  T       180.000
+R7         0603                 1383mil      108.5mil       1383mil         81mil       1383mil         81mil  B        90.000
+R33        0603               1480.5mil         76mil       1453mil         76mil       1453mil         76mil  B       180.000
+R6         0603                 1578mil      108.5mil       1578mil         81mil       1578mil         81mil  B        90.000
+C11        1206                 1703mil       23.5mil       1703mil         91mil       1703mil         91mil  T       270.000
+R35        0603                 1730mil       57.5mil       1730mil         85mil       1730mil         85mil  B       270.000
+C20        0603                 1730mil      182.5mil       1730mil        155mil       1730mil        155mil  B        90.000
+R24        0603               1795.5mil        281mil       1768mil        281mil       1768mil        281mil  B       180.000
+L1         INDUCT PA434     1866.173mil    314.425mil       1757mil        316mil    1758.89mil    314.425mil  T       360.000
+R32        0603                 1603mil      363.5mil       1603mil        336mil       1603mil        336mil  B        90.000
+R27        0603                 1673mil      363.5mil       1673mil        336mil       1673mil        336mil  B        90.000
+U2         SC70                 1668mil        506mil       1643mil        466mil       1643mil        466mil  T       360.000
+R26        0603               1645.5mil        461mil       1618mil        461mil       1618mil        461mil  B       180.000
+R2         0603                 1578mil      458.5mil       1578mil        431mil       1578mil        431mil  T        90.000
+U3         VSSOP 10P        1396.583mil    446.906mil       1483mil        486mil       1483mil        486mil  B       270.000
+R3         0603                 1492mil      497.5mil       1492mil        525mil       1492mil        525mil  T       270.000
+R19        0603               1429.5mil        620mil       1457mil        620mil       1457mil        620mil  T       180.000
+R18        0603               1429.5mil        690mil       1457mil        690mil       1457mil        690mil  T       180.000
+R17        0603               1299.5mil        690mil       1327mil        690mil       1327mil        690mil  T       180.000
+C22        0603               1299.5mil        620mil       1272mil        620mil       1272mil        620mil  T         0.000
+U13        SOT-143              1135mil      627.5mil       1185mil        660mil       1185mil        660mil  B       270.000
+C26        0603                 1187mil      647.5mil       1187mil        620mil       1187mil        620mil  T        90.000
+C31        0603                  995mil      627.5mil        995mil        600mil        995mil        600mil  B        90.000
+C12        0402                 1019mil        464mil       1044mil        464mil       1044mil        464mil  B         0.000
+C23        0402                 1077mil        309mil       1052mil        309mil       1052mil        309mil  B       180.000
+X1         XTAL 7V          1042.551mil    187.386mil       1077mil        234mil   1076.016mil    230.693mil  B       270.000
+R21        0603             1066.681mil    170.449mil   1039.181mil    170.449mil   1039.181mil    170.449mil  T       360.000
+C15        0402                  902mil        159mil        902mil        134mil        902mil        134mil  B        90.000
+A1         RF MINI19097          718mil     84.996mil        718mil        116mil    659.929mil     53.992mil  B       180.000
+U6         BALUN 0915BM      794.362mil    196.795mil        762mil        169mil    758.929mil    171.205mil  B       270.000
+C14        0402                  609mil        214mil        634mil        214mil        634mil        214mil  B         0.000
+R16        0402                  612mil        274mil        637mil        274mil        637mil        274mil  B         0.000
+C19        0402                  612mil        344mil        637mil        344mil        637mil        344mil  B         0.000
+C17        0402                  558mil        331mil        533mil        331mil        533mil        331mil  T         0.000
+C16        0402                  558mil        271mil        533mil        271mil        533mil        271mil  T       360.000
+U8         SC70                  433mil         -9mil        473mil        -34mil        473mil        -34mil  T        90.000
+R22        0603                  468mil      128.5mil        468mil        101mil        468mil        101mil  T        90.000
+R23        0603                335.5mil        121mil        363mil        121mil        363mil        121mil  T       180.000
+D3         LED LTST-C19           57mil        220mil         87mil        220mil         87mil        220mil  B         0.000
+1          LOGOJKSILK         -65458mil     -49535mil         98mil        251mil     -65458mil     -49535mil  T         0.000
+D4         LED LTST-C19           57mil        290mil         87mil        290mil         87mil        290mil  B         0.000
+R15        0603                189.5mil        280mil        217mil        280mil        217mil        280mil  B         0.000
+R14        0603                189.5mil        210mil        217mil        210mil        217mil        210mil  B         0.000
+U12        SOT-23-5              258mil      8.402mil        208mil         46mil        308mil        -29mil  T       270.000
+

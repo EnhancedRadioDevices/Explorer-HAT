@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NC Drill File Report For :  T:\MISC~0B7\NOVUS\NV-SOUND\ZEROWIRE\REV C\ZWIRP_C.PCB   7-Dec-2019   15:36:14
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top - Bottom
+ASCII File : t:\misc~0b7\novus\nv-sound\zerowire\rev c\gerbers\zwirp_c.TXT
+EIA File   : t:\misc~0b7\novus\nv-sound\zerowire\rev c\gerbers\zwirp_c.DRL
+
+Tool         Hole Size          Hole Count        Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          186       28.805 Inch (731.640 mm)
+T2        28mil (0.7112mm)         2         2.401 Inch (60.984 mm)
+T3        31mil (0.7874mm)         2         1.763 Inch (44.781 mm)
+T4        35mil (0.889mm)          2         2.649 Inch (67.285 mm)
+T5        39mil (0.9906mm)         2         0.606 Inch (15.385 mm)
+T6        47mil (1.1938mm)         2         2.738 Inch (69.549 mm)
+T7        50mil (1.27mm)           4         1.552 Inch (39.423 mm)
+T8        115mil (2.921mm)         4         7.757 Inch (197.021 mm)
+T9        138mil (3.5052mm)        2         2.804 Inch (71.222 mm)
+---------------------------------------------------------------------------
+Totals                             206       51.074 Inch (1297.289 mm)
+
+Total Processing Time : 00:00:00
